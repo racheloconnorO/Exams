@@ -1,0 +1,31 @@
+#question 1
+#Rachel O Connor
+
+taylorSwiftSongs = ["love story" , "blank space", "shake it off" ,"bad blood"," Delicate","you belong with me" , "wildest dreams" ,"red" ,"all too well","22"]
+taylorSwiftSongs.index
+taylor
+print = int(input("taylorSwiftSongs"))
+
+choice = ("please enter a song")
+
+if song is in taylorSwiftSongs:
+    print("yes this song is on the list")
+else:
+    print("This song is not on the list")
+
+
+
+
+#question 2
+#Rachel O Connor
+
+user= int(input("welcome to temperature alert system,please enter a temperature value in degrees celsius"))
+
+if user <20:
+    print("thats too cold. turn up heating.")
+    
+elif user 20 and number >24:
+    print("temperature is just right")
+    
+else:
+    print("too warm.turn down heating.")
