@@ -1,0 +1,32 @@
+#question 1
+#Rachel o connor
+
+num1 = 9
+num2 = 5
+#this calculator can only add or subtract
+input = ("please enter your name: ") #(ii) ask user to enter their name.
+print("welcome to the Addition and Subtraction calculator.")#(iii)
+int(input("please enter the first number: ")) #(iv) user is asked to rnter the numbers that will be added or subtracted
+int(input("please enter the secound number: ")) #(iv)
+print('Do you want me to (a)dd or (s)ubtract?')#this calculator can only add or subtract
+if choice == 'A': #(vi)
+    print (num1 + num2)
+if choice == 'S': #(vi)
+    print (num1 - num2)
+choice = input()
+if choice == 'a':
+    print (num1 + num2)
+elif choice == 's':
+    print (num1 - num2)
+while = ("Do you want me to (a)dd or(s)ubtract?")
+
+
+#question 2
+#rachel o connor
+
+squared_numbers = [1,4,9,16,25,36,49,64,81,100,121,144,169,196,225,256,289,324,361,400] #(i) placed the first calculated number in the list
+list = ("squared_numbers")
+list.append = ("squared_numbers") #(ii) put the listed squared numbers in a append loop
+print = list.append
+print = int(input("which of the first 20 squared numbers they would like to see (1-20)? : *")) #(iii) asked the user which 20 squared numbers they would like to see.
+
