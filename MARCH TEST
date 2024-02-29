@@ -1,0 +1,23 @@
+#Student Name= Rachel o connor
+
+
+print("Household budget calculator")
+num_adults("please enter the number of adults: ")#i
+print ("num_adults: ")#i
+num_child("please enter the number of children: ")#i
+print ("num_child: ")#i
+if num_child > 3: 20#ii
+print = ("please enter inflation rate : ")#iii
+float: #iv
+    0.10 for 10% inflation:
+
+food_budget = 300
+cost_food_adult = 50
+cost_food_child = 35
+child_allowance total= 140
+total_household_cost = 190
+total_household_cost + inflation: #v
+
+print("Children's allowance total: €", child_allowance*num_child)
+print("Total household food cost: €", cost_food_adult*num_adults+cost_food_child*num_child)
+print("child_allowence total + food_budget + total_household_cost + inflation") #vi
