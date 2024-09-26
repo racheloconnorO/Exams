@@ -1,0 +1,46 @@
+#Question 1
+#Students Name: Rachel O Connor
+
+length = input("please enter the length: ")#(iii)
+
+width = input("please enter the width: ")#(iii)
+
+round(length,width)#(iv)
+
+print("This program can find the perimeter or area of a quadrilateral")#(i)
+name =input("please enter your name: ")#(ii)
+choice = input("do you want to find the (p)erimeter or (a)rea? ")
+if choice =="p":
+    print(length + length + width + width)
+elif choice == "a":
+    print(length*width)
+
+print("a quadrilateral with a length of" , length "and a width of",width "has an area of" (a))#(v)
+print("thank you for using the program", name )#(ii)
+
+
+#Question 1 (b)
+#Student name: Rachel O Connor
+
+import random
+chose = input("please pick rock , paper or scissors: ")#(i)
+print("player chose:",chose)#(i)
+computer_options = ["rock" ,"paper" ,"scissors"]
+
+computer_choice = computer_options [random.randint(0,2)]
+print("computer chose:" ,computer_options)#(i)
+
+if #(ii)
+
+#Question 2
+#Students name: Rachel O Connor
+def (regular):
+    regular=print("regular tickets are £150 each")
+    
+def (VIP):
+    VIP= print("VIP tickets are £75 each")
+    
+def (budget):
+    budget=print("budget tickets are £40 each")
+    
+Ticketsales=input[regular+VIP+budget]
